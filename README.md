@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DavuluriHemanthChowdary
 - 👀 I’m interested in Full Stack Application Development
--
 
 <!---
 DavuluriHemanthChowdary/DavuluriHemanthChowdary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
